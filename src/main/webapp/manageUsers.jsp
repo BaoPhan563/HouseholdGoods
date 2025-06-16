@@ -7,7 +7,6 @@
     String context = request.getContextPath();
 %>
 
-<!-- Main content, thêm margin-left tránh bị sidebar che -->
 <div class="content" style="margin-left: 220px; padding: 2rem;">
     <h4>👥 Manage Accounts</h4>
 
