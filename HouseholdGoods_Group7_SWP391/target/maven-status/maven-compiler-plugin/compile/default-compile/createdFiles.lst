@@ -1,0 +1,9 @@
+DAO\ProductDAO.class
+Model\Customer.class
+Model\Product.class
+Controller\UserController.class
+Controller\ProductController.class
+Controller\DashboardController.class
+DB\DBConnection.class
+Model\Manager.class
+DAO\UserDAO.class
